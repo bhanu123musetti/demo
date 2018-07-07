@@ -3,5 +3,43 @@
     "name":"bhanu",
     "label":"full-stack developer",
     "email":"bhanu64@gmail.com"
+  },
+"carrer":{
+  "info":"to prsue a challenges carrer and be part of progressive ogranization that gives the scope to enchance my knowledge and utilizing my skills"
+},
+"education":[
+  {
+    "degree":"B-Tech(information Technology)",
+    "institute":"pvp siddartha",
+    "data":["2015-19","94%"]
+  },
+  {
+    "degree":"Intermediate(mpc)",
+    "institute":"sri chaitanya junior college",
+    "data":["2014-16","95%"]
+  },
+  {
+    "degree":"ssc",
+    "institute":"z.p.high school",
+    "data":["2013-14","92%"]
   }
+],
+"skills":[
+  {
+    "title":"languages",
+    "content":["c","phyton","java","c++","html"]
+  },
+  {
+    "title":"database",
+    "content":["sql","mongodb","mysql"]
+  },
+  {
+    "title":"web technologies",
+  "content":["html","css","java script","php"]
+},
+{
+  "title":"frame works",
+"content":["Django","codeignitor"]
+}
+]
 }
